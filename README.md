@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution]( https://github.com/Diser-Xian/Four-card-feature-section-solution)
+- Live Site URL: [live site URL ](https://diser-xian.github.io/Four-card-feature-section-solution/)
 
 ## My process
 - Analyze the the sample designs
@@ -73,6 +73,6 @@ What worked well was faster understanding of layout concepts. What didn’t work
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [My web app](https://animevault-ced.netlify.app/)
+- Frontend Mentor - [@XDEV](https://www.frontendmentor.io/profile/XDEV)
 
